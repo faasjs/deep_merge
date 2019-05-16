@@ -649,7 +649,7 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@faasjs/eslint-config-recommended@0.0.0-alpha.1":
+"@faasjs/eslint-config-recommended@beta":
   version "0.0.0-alpha.1"
   resolved "https://registry.npm.taobao.org/@faasjs/eslint-config-recommended/download/@faasjs/eslint-config-recommended-0.0.0-alpha.1.tgz#3888e4e50e1eac30e9ee500e37f52bfceb5916c0"
   integrity sha1-OIjk5Q4erDDp7lAON/Ur/OtZFsA=
